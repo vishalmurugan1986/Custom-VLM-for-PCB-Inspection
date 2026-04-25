@@ -1,4 +1,4 @@
-## Custom Vision-Language Model for PCB Inspection
+## Custom Vision-Language Model (VLM) for PCB Inspection
 
 ## Problem Statement
 
