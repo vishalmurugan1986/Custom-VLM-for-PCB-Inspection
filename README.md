@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-The goal is to design an **offline VLM system** that can:
+The goal is to design an **offline Vision-Language Model system** that can:
 
 * Answer **natural language questions** from inspectors
   *(e.g., “How many missing components?”, “Is there a solder bridge near IC3?”)*
